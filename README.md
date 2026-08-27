@@ -1,310 +1,172 @@
-# Hi 👋, I'm Rajasekaran S
+<div align="center">
 
-### AI & Data Science Engineering Student | Aspiring AI Engineer
+# 👋 Hello, I'm Rajasekaran S
 
-Welcome to my GitHub profile! I'm an AI & Data Science Engineering student passionate about Artificial Intelligence, Machine Learning, Data Analytics, and Software Development.
+### 🤖 AI & Data Science Student
 
-I enjoy learning new technologies and building practical projects that solve real-world problems.
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Pursuing **B.Tech/BE in Artificial Intelligence & Data Science**
-- 🏫 VSB Engineering College, Karur
-- 🤖 Interested in **Artificial Intelligence & Machine Learning**
-- 🐍 Currently developing my skills in **Python**
-- 📊 Interested in **Data Analytics and Data Visualization**
-- 💡 Passionate about building intelligent and practical applications
-- 🚀 Aspiring to become an **AI Engineer**
-
----<div align="center">
-
-# 👋 Hey, I'm Rajasekaran S
-
-### 🤖 AI & Data Science Engineer in Progress
-
-**Building • Learning • Experimenting • Improving**
-
-<br>
-
-<a href="https://www.linkedin.com/in/rajasekaran-s-8344042a5">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Learning AI • Building Projects • Solving Problems**
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧑‍💻 About Me
 
-I'm an **Artificial Intelligence & Data Science Engineering student** with a strong interest in creating intelligent, practical applications.
+I'm an **AI & Data Science Engineering student** who enjoys exploring how technology can be used to solve everyday problems.
 
-My focus is on understanding how data, algorithms, and AI can be combined to solve real-world problems.
+I'm currently building my foundation in **Python, Machine Learning, Artificial Intelligence, Data Analytics, and Software Development**.
+
+I believe that the best way to learn technology is to **learn → build → experiment → improve**.
+
+---
+
+## 🤖 My AI Journey
 
 ```text
-🎓 AI & Data Science Engineering Student
-🤖 Artificial Intelligence & Machine Learning
-🐍 Python & Java
-📊 Data Analytics
-💡 Problem Solving
-🚀 Building Real-World Projects
+Curiosity
+    ↓
+Learn Programming
+    ↓
+Understand Data
+    ↓
+Explore Machine Learning
+    ↓
+Build AI Projects
+    ↓
+Solve Real Problems
+    ↓
+Become an AI Engineer 🚀
 ```
 
 ---
 
-## ⚡ My Tech World
+## 🛠️ Things I'm Learning
 
-<div align="center">
+### 💻 Programming
 
-### Programming
+`Python` `Java` `Algorithms`
 
-<img src="https://skillicons.dev/icons?i=python,java" />
+### 🧠 Artificial Intelligence
 
-### AI & Data Science
+`Machine Learning` `TensorFlow` `Scikit-learn`
 
-<img src="https://skillicons.dev/icons?i=tensorflow" />
+### 📊 Data
 
-<br><br>
+`Data Analytics` `Microsoft Excel` `Data Visualization`
 
-`Machine Learning` • `Algorithms` • `Scikit-learn` • `Data Analytics`
+### 🌐 Development
 
-### Development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,flask,sqlite" />
-
-</div>
+`HTML` `CSS` `JavaScript` `Flask` `SQLite`
 
 ---
 
-## 🚀 What I'm Building
+## 🚀 My Featured Project
 
 ### 💰 Budget Planning Agent
 
-> **Turning financial information into personalized budgeting decisions.**
+**An intelligent budgeting application designed to help users understand and manage their finances.**
 
-The **Budget Planning Agent** is an AI-powered application designed to create personalized monthly budgets using information such as income, expenses, savings goals, and financial habits.
+The project creates personalized monthly budgets using:
 
-### 🔍 What it can do
+* 💵 Income
+* 💳 Expenses
+* 🎯 Savings Goals
+* 📊 Financial Habits
 
-```text
-User Information
-      ↓
-Income & Expenses
-      ↓
-Financial Analysis
-      ↓
-Personalized Budget
-      ↓
-Expense Tracking
-      ↓
-Financial Insights
-```
+It also provides expense tracking, category-wise analysis, financial trends, budget recommendations, and an interactive dashboard.
 
-### ✨ Highlights
+**Tech Stack**
 
-* 💵 Personalized monthly budgets
-* 📋 Expense tracking
-* 🗂️ Category-wise spending analysis
-* 🎯 Savings goal monitoring
-* 📈 Financial trend analysis
-* 💡 Budget recommendations
-* 📊 Interactive dashboard
-* 📉 Data visualization
-
-### 🛠️ Built With
-
-`Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite` `Chart.js`
+`Python` • `Flask` • `HTML` • `CSS` • `JavaScript` • `SQLite` • `Chart.js`
 
 ---
 
-## 💼 Industry Exposure
+## 💡 How I Approach Problems
 
-### 🌐 Web Development Intern
+I don't start with:
 
-**We Touch Technologies | June 2024 – July 2024**
+> **"What code should I write?"**
 
-Worked on an **E-Commerce Online Portal** as part of a hands-on web development internship.
+I start with:
+
+> **"What problem am I trying to solve?"**
+
+Then I follow:
+
+```text
+Understand the Problem
+        ↓
+Break it into Smaller Parts
+        ↓
+Find the Right Approach
+        ↓
+Build a Solution
+        ↓
+Test & Debug
+        ↓
+Improve
+```
+
+---
+
+## 📈 Currently Improving
+
+* 🐍 Python Programming
+* 🧠 Machine Learning
+* 🤖 Artificial Intelligence
+* 📊 Data Analytics
+* ✨ Generative AI
+* 💻 Problem Solving
+* 🌐 Application Development
 
 ---
 
 ## 🏆 Learning Milestones
 
 🥉 **Generative AI Certificate**
-*NASSCOM FutureSkills Prime*
+NASSCOM FutureSkills Prime
 
 🤖 **AI Tools Workshop**
-*FewInfos — 2025*
+FewInfos — 2025
 
 ---
 
-## 📚 Currently Exploring
+## 💼 Internship Experience
 
-```text
-Artificial Intelligence
-        ↓
-Machine Learning
-        ↓
-Data Analytics
-        ↓
-Generative AI
-        ↓
-Intelligent Applications
-```
+### Web Development Intern
 
-I'm continuously improving my programming fundamentals and exploring how AI can be applied to practical applications.
+**We Touch Technologies**
+
+Worked on an **E-Commerce Online Portal** during my web development internship.
 
 ---
 
-## 💡 Beyond Code
+## 🌱 My Student Developer Philosophy
 
-I believe good technology is not just about writing code.
-
-It's about:
-
-**Understanding the problem → Designing the solution → Building it → Learning from it → Improving it**
-
-My strengths include:
-
-* 🤝 Teamwork
-* 👑 Leadership
-* 💡 Creative Thinking
-* ⏱️ Time Management
-* 🗣️ Communication
+> **Don't try to know everything.
+> Learn something. Build something. Break something.
+> Fix it. Then learn something new.**
 
 ---
 
-## 🎯 My Goal
+## 🎯 Where I'm Heading
 
-> **Become an AI Engineer who builds useful, intelligent, and impactful solutions for real-world problems.**
+I'm working towards becoming an **AI Engineer** capable of building intelligent applications that combine:
 
----
+**Data + Algorithms + AI + Software**
 
-## 🌱 My GitHub Journey
-
-```text
-Learn
-  ↓
-Build
-  ↓
-Break
-  ↓
-Debug
-  ↓
-Improve
-  ↓
-Repeat 🚀
-```
-
-Every repository represents something I've learned, built, or explored.
+to create meaningful real-world solutions.
 
 ---
+
+## 📂 Explore My Repositories
+
+You'll find projects, experiments, learning exercises, and implementations as I continue my journey through **AI & Data Science**.
 
 <div align="center">
 
-### 🚀 Thanks for visiting my GitHub!
+### 🚀 Learn. Build. Experiment. Repeat.
 
-**Keep Learning • Keep Building • Keep Growing**
-
-⭐ If you find something interesting, feel free to explore my repositories.
+**Thanks for visiting my profile! ⭐**
 
 </div>
-
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- Python
-- Java
-
-### AI & Data Science
-- Machine Learning
-- Algorithms
-- Data Analytics
-
-### Tools & Technologies
-- TensorFlow
-- Scikit-learn
-- Microsoft Excel
-- Flask
-- SQLite
-- Chart.js
-
-### Web Technologies
-- HTML
-- CSS
-- JavaScript
-
----
-
-## 🚀 Featured Project
-
-### 💰 Budget Planning Agent
-
-An AI-powered budget planning application designed to create personalized monthly budgets based on a user's income, expenses, savings goals, and financial habits.
-
-**Key Features:**
-- Personalized monthly budget creation
-- Expense tracking
-- Category-wise spending analysis
-- Savings goal monitoring
-- Financial trend analysis
-- Budget recommendations
-- Interactive dashboard
-- Data visualization
-
-**Technologies Used:**
-
-`Python` `Flask` `HTML` `CSS` `JavaScript` `SQLite` `Chart.js`
-
----
-
-## 💼 Internship
-
-### Web Development Intern — We Touch Technologies
-
-During my internship, I worked on an **E-Commerce Online Portal** and gained practical exposure to web development and application development.
-
----
-
-## 🏆 Achievements & Certifications
-
-- 🥉 **Generative AI Certificate** — NASSCOM FutureSkills Prime
-- 🤖 Participated in **AI Tools Workshop** conducted by FewInfos in 2025
-
----
-
-## 💡 Soft Skills
-
-- Teamwork
-- Leadership
-- Creative Thinking
-- Time Management
-- Communication
-
----
-
-## 📚 Currently Learning
-
-- Python Programming
-- Machine Learning
-- Artificial Intelligence
-- Data Analytics
-- Generative AI
-- Software Development
-
----
-
-## 🎯 Career Goal
-
-My goal is to become a skilled **AI Engineer** and develop intelligent solutions that can solve real-world problems using Artificial Intelligence, Machine Learning, and Data Analytics.
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: [Rajasekaran S](https://www.linkedin.com/in/rajasekaran-s-8344042a5)
-
----
-
-⭐ Feel free to explore my repositories and follow my journey in AI & Data Science!
